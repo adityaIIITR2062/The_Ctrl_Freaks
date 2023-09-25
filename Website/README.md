@@ -1,15 +1,14 @@
 # Website Link: 
-https://coder024.github.io/Indian-Culture/
 
 # Introduction:
 
-<b>India or Bharat: Hamara apna desh!</b>
+<b>Bharat: Hamara apna desh!</b>
 
 India is home to over a billion people, accommodating incredible cultural diversity between languages, geographic regions, religious traditions, and social stratifications.
 Indian culture promotes moral values and the attitudes of <b>generosity, simplicity, and frugality. </b>
 The diverse characters of India are <b>strongly unified and perfectly assimilated</b> to emerge as a one single nation.
 
-We present to you our website,<b> “Incredible India”</b>. Incredible India Stands for the rich cultural heritage that we behold.
+We present to you our website,<b> “Rich Indian Traditions” </b>. Incredible India Stands for the rich cultural heritage that we behold.
 
 This website offers <b>comprehensive information</b> related to cultural heritage, ancient monuments, literary arts, visual arts, performing arts, fairs and festivals of India through images as well as text.
 
@@ -38,7 +37,7 @@ This section of the website gives the user an overview of the famous heritage si
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174475248-02d14ce5-a75f-4b82-9641-f458af51eec3.png">
 
-<b>One of the best features of our website is that it lets the user view, locate and learn about the top 10 heritage sites of India at one place.</b>
+<b>One of the best features of our website is that it lets the user view, locate and learn about the heritage sites of India at one place.</b>
 For this, we have used the "Google My Maps" feature that locates to the various heritage sites in terms of their geographical location. On clicking on any of the pointers, the user can know it's location and read about its rich history and culture and appreciate the diversity!
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/72097687/174475490-c74a4c63-e0b1-490d-ace5-77debb17f401.png">
